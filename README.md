@@ -23,7 +23,7 @@
 </p>
 
 
-
+<h2 align="left"> SKILL SET: </h2>
 
 <p align="left"> 
 
