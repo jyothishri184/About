@@ -7,7 +7,7 @@
 
 - 👩🏻‍💻 Checkout my projects at [https://github.com/jyothishri184](https://github.com/jyothishri184)
 
-- 📧 Feel free to reach me **shrijyothi184@gmail.com**
+- 📧 Reach me @ **shrijyothi184@gmail.com**
 
 <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/22dc88df-7458-4f60-9d51-c3e15dea512a" width="600" height="450"> 
 
