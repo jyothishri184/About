@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm JYOTHI SHRI</h1>
+<h1 align="center">Hi👋🏻, I'm JYOTHI SHRI</h1>
 <h3 align="center">Dedicated student with a passion for continuous learning in the AI and Data Science field, showcasing profound expertise in machine learning and web development while demonstrating a keen aptitude for problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothishri184&label=Profile%20views&color=0e75b6&style=flat" alt="jyothishri184" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jyothishri184](https://github.com/jyothishri184)
+- 👩🏻‍💻 Checkout my projects at [https://github.com/jyothishri184](https://github.com/jyothishri184)
 
-- 📫 How to reach me **shrijyothi184@gmail.com**
+- 📧 Feel free to reach me **shrijyothi184@gmail.com**
 
 <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/22dc88df-7458-4f60-9d51-c3e15dea512a" width="600" height="450"> 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
