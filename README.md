@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/shrijyothi184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrijyothi184" height="30" width="40" /></a>
 
 </p>
-<br><br><br>
+<br><br>
 
 <h2 align="left"> SKILL SET: </h2>
 <p align="left"> 
@@ -68,8 +68,10 @@
       
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothishri184&show_icons=true&locale=en&layout=compact" alt="jyothishri184" /></p>
+<br>
+<br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothishri184&show_icons=true&locale=en&layout=compact" alt="jyothishri184" /></p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothishri184&show_icons=true&locale=en" alt="jyothishri184" />
 </p>
