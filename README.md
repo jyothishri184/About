@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothishri184&label=Profile%20views&color=0e75b6&style=flat" alt="jyothishri184" /> </p>
 
-- 🌱 I’m currently learning **Web development, Data Science**
+- 🌱 I’m currently learning **Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyothishri184](https://github.com/jyothishri184)
 
