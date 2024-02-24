@@ -21,12 +21,10 @@
 <a href="https://www.hackerrank.com/shrijyothi184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrijyothi184" height="30" width="40" /></a>
 
 </p>
-
+<br><br><br>
 
 <h2 align="left"> SKILL SET: </h2>
-
 <p align="left"> 
-
 <h3 align="left">Programming Languages: </h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &ensp; &ensp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &ensp; &ensp;
