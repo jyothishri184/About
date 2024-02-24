@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shrijyothi184@gmail.com**
 
-<img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/22dc88df-7458-4f60-9d51-c3e15dea512a" width="100" height="100"> 
+<img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/22dc88df-7458-4f60-9d51-c3e15dea512a" width="500" height="300"> 
 
 
 <h3 align="left">Connect with me:</h3>
