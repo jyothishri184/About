@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JYOTHI SHRI</h1>
-<h3 align="center">Passionate and committed entry-level professional in Artificial Intelligence and Data Science Engineering</h3>
+<h3 align="center">Dedicated student with a passion for continuous learning in the AI and Data Science field, showcasing profound expertise in machine learning and web development while demonstrating a keen aptitude for problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothishri184&label=Profile%20views&color=0e75b6&style=flat" alt="jyothishri184" /> </p>
 
