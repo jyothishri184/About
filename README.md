@@ -12,19 +12,17 @@
 <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/22dc88df-7458-4f60-9d51-c3e15dea512a" width="600" height="450"> 
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  
 <a href="https://linkedin.com/in/jyothishri184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyothishri184" height="30" width="40" /></a> &ensp;
   <a href="https://www.leetcode.com/shrijyothi184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrijyothi184" height="30" width="40" /></a> &ensp;
 <a href="https://kaggle.com/jyothishri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jyothishri" height="30" width="40" /></a> &ensp;
 <a href="https://www.hackerrank.com/shrijyothi184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrijyothi184" height="30" width="40" /></a>
-
 </p>
-<br><br>
+<br>
 
 <h2 align="left"> SKILL SET: </h2>
 <p align="left"> 
+  
 <h3 align="left">Programming Languages: </h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &ensp; &ensp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &ensp; &ensp;
@@ -71,7 +69,6 @@
 
 </p>
 
-<br>
 <br>
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothishri184&show_icons=true&locale=en&layout=compact" alt="jyothishri184" /> <img src="https://github-readme-stats.vercel.app/api?username=jyothishri184&show_icons=true&locale=en" alt="jyothishri184" /> </p>
