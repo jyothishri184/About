@@ -40,8 +40,8 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/ea19a0a2-c45c-44e9-b12b-33b84dc722bc" alt="pandas" width="40" height="40"/> </a> 
 &ensp; &ensp;
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/5cc742ee-c74f-4211-aa00-2877c6773f39" alt="numpy" width="40" height="40"/> </a> &ensp; &ensp;
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/1fac584d-7059-4e45-96d9-09c2a1a1402a)" alt="streamlit" width="40" height="40"/> </a> &ensp;  &ensp;
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/744b64c8-fcd0-4544-9488-8e37d2cd2b1f" alt="pyspark" width="80" height="40"/> </a> &ensp; &ensp;
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/1fac584d-7059-4e45-96d9-09c2a1a1402a)" alt="streamlit" width="60" height="40"/> </a> &ensp;  &ensp;
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/744b64c8-fcd0-4544-9488-8e37d2cd2b1f" alt="pyspark" width="100" height="40"/> </a> &ensp; &ensp;
 
 <h3 align="left">Frontend Development: </h3>
 
