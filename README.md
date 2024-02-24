@@ -37,8 +37,11 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &ensp; &ensp;
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &ensp; &ensp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> &ensp; &ensp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/ea19a0a2-c45c-44e9-b12b-33b84dc722bc" alt="pandas" width="40" height="40"/> </a> &ensp; &ensp;
-
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/ea19a0a2-c45c-44e9-b12b-33b84dc722bc" alt="pandas" width="40" height="40"/> </a> 
+&ensp; &ensp;
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/5cc742ee-c74f-4211-aa00-2877c6773f39" alt="numpy" width="40" height="40"/> </a> &ensp; &ensp;
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/1fac584d-7059-4e45-96d9-09c2a1a1402a)" alt="streamlit" width="40" height="40"/> </a> &ensp;  &ensp;
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/744b64c8-fcd0-4544-9488-8e37d2cd2b1f" alt="pyspark" width="80" height="40"/> </a> &ensp; &ensp;
 
 <h3 align="left">Frontend Development: </h3>
 
@@ -63,7 +66,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &ensp; &ensp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &ensp; &ensp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &ensp; &ensp;
-      
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/417b5f88-8025-4ae3-ace3-54e65f94e129" alt="tableau" width="40" height="40"/> </a> &ensp; &ensp;
+<a href="https://www.microsoft.com/en-in/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/4ba50c49-193e-47c0-b46c-f1f40e966c99" alt="powerbi" width="40" height="40"/> </a> &ensp; &ensp;
+
 </p>
 
 <br>
