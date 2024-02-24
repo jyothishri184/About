@@ -54,8 +54,6 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/jyothishri184/jyothishri184/assets/106957211/32e910a3-ed4f-4e17-832e-7bd7a0e74416" alt="express" width="40" height="40"/> </a> &ensp; &ensp;
 
 
-
-
 <h3 align="left">DataBase: </h3>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &ensp; &ensp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &ensp; &ensp;
@@ -72,4 +70,5 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothishri184&show_icons=true&locale=en&layout=compact" alt="jyothishri184" /></p>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothishri184&show_icons=true&locale=en" alt="jyothishri184" /></p>
